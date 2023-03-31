@@ -1,0 +1,24 @@
+{
+    "name": "scheduling-app-ts",
+    "version": "1.0.0",
+    "description": "Testing using TypeScript to implement a basic scheduling application",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx tsc && node dist/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MattBlakeQA/scheduling-app-ts.git"
+    },
+    "author": "Matt Blake",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MattBlakeQA/scheduling-app-ts/issues"
+    },
+    "homepage": "https://github.com/MattBlakeQA/scheduling-app-ts#readme",
+    "dependencies": {
+        "@types/node": "^18.15.0",
+        "prettier": "^2.8.4",
+        "typescript": "^4.9.5"
+    }
+}
