@@ -7,7 +7,7 @@ Experimenting using TypeScript for a simple commandline-based CRUD application.
 ### Installing
 
 -   Install git
--   Clone the repo: `git clone https://github.com/MattBlakeQA/scheduling-app-ts.git`
+-   Clone the repo: `git clone https://github.com/mbblake/scheduling-app-ts.git`
 -   Install Node 18+
 -   Install NPM
 -   Install dependencies: `npm install`
